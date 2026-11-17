@@ -1,7 +1,6 @@
 # Verdandi
 
-App de escritorio para Windows 11 que lleva el registro de mis proyectos personales, estén en la carpeta que estén.
-El objetivo de la app es facilitar la organización de los proyectos en los que estoy trabajando, facilitando trabajar en varios de ellos de manera simultanea.
+Herramienta de escritorio para Windows 11 que unifica el control de mis proyectos personales sin importar dónde estén guardados. Está pensada para simplificar la organización y facilitar la multitarea, permitiéndome alternar y trabajar en varios desarrollos a la vez sin perder el foco.
 
 **[⬇ Descargar la última versión](https://github.com/BMarquinaProyects/tracking-proyectos-app/releases/latest)**
 
